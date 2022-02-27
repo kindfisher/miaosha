@@ -5,14 +5,12 @@
 
     <groupId>com.geekq.api</groupId>
     <artifactId>miaosha-order-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-
+    <version>${revision}</version>
     <name>miaosha-order-api</name>
     <description>Dubbo api for Spring Boot</description>
-
     <parent>
         <groupId>com.geekq.dubbo</groupId>
         <artifactId>miaosha-order</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
 </project>

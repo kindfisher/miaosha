@@ -4,6 +4,10 @@
 
 > Github : [https://github.com/qiurunze123](https://github.com/qiurunze123)
 
+> 微信(阿里推荐-可帮忙推荐 与 修改简历 )：微信名称：qiurunzeaixiaoju 群人数较多 备注 年限-姓名 加我后我来拉你进群
+
+> 为大家举办这个活动 团队的人都有经验可以帮着大家修改简历 日期持续到6-18号 过后可能需要再约时间 大家看到后可加我 免费的哈！也是一个和专家沟通的机会
+
 > QQ : [3341386488](3341386488)
 
 > QQ群1(秒杀架构一群) :
@@ -108,6 +112,7 @@
 #####     [mysql数据库执行计划分析（已更新）](/docs/mysql-2.md)
 #####     [mysql数据库备份和恢复(已更新)](/docs/mysql-3.md)
 #####     [mysql数据库架构变迁(已更新)](/docs/mysql-3.md)
+#####     [mysql数据库MVCC(已更新)](/docs/mysql-mvcc.md)
 --------------------------------------------------|
 #### [netty专题(已更新 by liuxiangyu)](/docs/netty.md)
 #### [linux专题](/docs/linux.md)
